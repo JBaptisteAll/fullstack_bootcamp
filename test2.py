@@ -1,5 +1,6 @@
 print("hello DAFS-FT-14!")
 print("🏆")
+print ("Mycka se tappe l'incruste")
 
 # Add a code to my script, please be nice
 # Bravo DAFS14!
