@@ -2,7 +2,7 @@ print("hello DAFS-FT-14!")
 print("🏆")
 
 # Add a code to my script, please be nice
-# Bravo DAFS15!
+# Bravo DAFS14!
 
 # Question 1
 lives = 3
